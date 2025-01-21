@@ -1,1 +1,1 @@
-# python_para_economistas
+# Introducción al Análisis de Datos en Python para Economía y Ciencias Sociales
