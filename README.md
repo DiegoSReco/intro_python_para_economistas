@@ -15,6 +15,10 @@ Este material proporciona una introducción teórica y práctica al análisis de
 
 ## Conjuntos de Datos 
 
+## Autor 
+
+###**[Mtro. Diego Rojas](https://www.linkedin.com/in/diegorojas12/)**
+
 
 
 
